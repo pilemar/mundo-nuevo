@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general><identifier>
+<catalog>mec-red.es-ccaa</catalog>
+</identifier>
+<title><string language="es">Informática Básica -El Software</string>
+</title>
+<language>es</language>
+<language>en</language>
+<description><string language="es">Tema que  describe los software necesarios para el correcto funcionamiento logico de la computadora.</string>
+</description>
+<description><string language="en">Theme that describes the software necessary for the correct logical operation of the computer.</string>
+</description>
+<keyword><string language="es">software</string>
+</keyword>
+<keyword><string language="es">computadora</string>
+</keyword>
+<keyword><string language="es">equipamento logico</string>
+</keyword>
+<keyword><string language="es">Programas</string>
+</keyword>
+<keyword><string language="es">sistema</string>
+</keyword>
+<keyword><string>aplicacion</string>
+</keyword>
+<keyword><string>programación</string>
+</keyword>
+<coverage><string language="es">universal</string>
+<string language="en">universal</string>
+</coverage>
+<structure><source>LOMv1.0</source>
+<value>hierarchical</value></structure>
+<aggregationLevel><source>LOMv1.0</source>
+<value>4</value></aggregationLevel>
+</general>
+<lifeCycle><version><string>LOM-ESv1.0</string>
+</version>
+<status><source>LOMv1.0</source>
+<value>final</value></status>
+<contribute>
+<role><source>LOMv1.0</source>
+<value>author</value></role>
+<entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Pinto;Marlene;;;
+FN:Marlene Pinto
+EMAIL;TYPE=INTERNET:madelis23@hotmail.com
+END:VCARD]]></entity>
+<date><dateTime>2019-05-14T22:32:18.05Z</dateTime>
+<description><string>Fecha de creación del objeto de aprendizaje.</string>
+</description>
+</date>
+</contribute>
+</lifeCycle>
+<metaMetadata><identifier>
+<catalog>mec-red.es-ccaa</catalog>
+</identifier>
+<contribute>
+<role><source>LOMv1.0</source>
+<value>creator</value></role>
+<entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Pinto;Marlene;;;
+FN:Marlene Pinto
+EMAIL;TYPE=INTERNET:madelis23@hotmail.com
+END:VCARD]]></entity>
+<date><dateTime>2019-05-14T22:32:18.00Z</dateTime>
+<description><string>Fecha de creación del objeto digital</string>
+</description>
+</date>
+</contribute>
+<metadataSchema>LOM-ESv1.0</metadataSchema>
+<language>es</language>
+</metaMetadata>
+<technical><format>image/jpeg</format>
+<format>application/msword</format>
+<format>image/ video/x-ms-wmv</format>
+<format>audio/mpeg</format>
+<size>889856</size>
+<location>URI</location>
+<requirement>
+<orComposite>
+<type><source>LOMv1.0</source>
+<value>operating system</value>
+</type>
+<name><source>LOMv1.0</source>
+<value>ms-windows</value>
+</name>
+<minimumVersion>Flash Player 7</minimumVersion>
+<maximumVersion>Flash Player 9</maximumVersion>
+</orComposite>
+</requirement>
+<requirement>
+<orComposite>
+<type><source>LOMv1.0</source>
+<value>browser</value>
+</type>
+<name><source>LOMv1.0</source>
+<value>any</value>
+</name>
+</orComposite>
+</requirement>
+<installationRemarks><string language="es">Pulsar en setup.exe</string>
+<string language="en">Click on setup.exe</string>
+</installationRemarks>
+<otherPlatformRequirements><string language="es">Java instalado</string>
+<string language="en">Java installated</string>
+</otherPlatformRequirements>
+<duration><duration>P5D</duration>
+<description><string language="es">dependerá de la memoria del ordenador.</string>
+<string language="en">Timed duration of the animation (depends on the computer's memory).</string>
+</description>
+</duration>
+</technical>
+<educational><interactivityType><source>LOMv1.0</source>
+<value>mixed</value></interactivityType>
+<learningResourceType><source>LOMv1.0</source>
+<value>exam</value></learningResourceType>
+<learningResourceType><source>LOMv1.0</source>
+<value>narrative text</value></learningResourceType>
+<learningResourceType><source>LOMv1.0</source>
+<value>exercise</value></learningResourceType>
+<learningResourceType><source>LOMv1.0</source>
+<value>diagram</value></learningResourceType>
+<interactivityLevel><source>LOMv1.0</source>
+<value>medium</value></interactivityLevel>
+<semanticDensity><source>LOMv1.0</source>
+<value>medium</value></semanticDensity>
+<intendedEndUserRole><source>LOMv1.0</source>
+<value>learner</value></intendedEndUserRole>
+<intendedEndUserRole><source>LOMv1.0</source>
+<value>author</value></intendedEndUserRole>
+<intendedEndUserRole><source>LOMv1.0</source>
+<value>teacher</value></intendedEndUserRole>
+<intendedEndUserRole><source>LOMv1.0</source>
+<value>manager</value></intendedEndUserRole>
+<context><source>LOMv1.0</source>
+<value>training</value></context>
+<context><source>LOMv1.0</source>
+<value>other</value></context>
+<context><source>LOMv1.0</source>
+<value>school</value></context>
+<context><source>LOMv1.0</source>
+<value>higher education</value></context>
+<typicalAgeRange><string language="es">Para alumnos entre 15 -23 años</string>
+</typicalAgeRange>
+<typicalAgeRange><string language="en">For students between 15-23 years</string>
+</typicalAgeRange>
+<difficulty><source>LOMv1.0</source>
+<value>medium</value></difficulty>
+<typicalLearningTime><duration>P2D</duration>
+<description><string language="es">OBJETIVOS DIDÁCTICOS: Explora conceptos sobre software identificando los softwares necesarios para el correcto funcionamiento de la computadora, en tareas de la vida diaria.</string>
+<string language="en">DIDACTIC OBJECTIVES: Explore software concepts identifying the software necessary for the correct functioning of the computer, in tasks of daily life.</string>
+</description>
+</typicalLearningTime>
+<description><string language="es">Se puede usar después de explicar los conceptos claves en clase o se puede dejar que los alumnos realicen la unidad y posteriormente repasar o aclarar los contenidos en clase.</string>
+</description>
+<description><string language="en">It can be used after explaining the key concepts in class or students can be allowed to do the unit and then review or clarify the contents in class.</string>
+</description>
+<language>es</language>
+<language>en</language>
+</educational>
+<rights><cost><source>LOMv1.0</source>
+<value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source>
+<value>no</value></copyrightAndOtherRestrictions>
+<description><string language="es">La utilización de estos contenidos es universal, gratuita y abierta.</string>
+<string language="en">The use of these contents is universal, free and open.</string>
+</description>
+</rights>
+<relation><kind><source>LOMv1.0</source>
+<value>ispartof</value></kind>
+<resource><identifier>
+<catalog>Catálogo unificado mec-red.es-ccaa de identificación de ODE</catalog>
+</identifier>
+<description><string language="es">El objetivo principal de esteOA es crear una aplicación WEB que permita al alumnado  de superior, con necesidades especiales,experimentar de forma informativa con los contenidos propios de Informática básica.</string>
+<string language="en">The main objective of thisOAOA is to create a WEB application that allows high school students with special needs to interactively experience the contents of basic IT.</string>
+</description>
+</resource>
+</relation>
+<annotation><entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Pinto;Marlene;;;
+FN:Marlene Pinto
+EMAIL;TYPE=INTERNET:madelis23@hotmail.com
+ORG:MEDUCA
+END:VCARD]]></entity>
+<date><dateTime>2019-06-15T08:00:30</dateTime>
+<description><string language="es">Fecha de primera ejecución del ODE en clase.</string>
+<string language="en">Date of first execution of the ODE in class.</string>
+</description>
+</date>
+<description><string language="es">Este objeto educativo es interesante para comprender el nivel de importancia de la parte logica  de la computadora.</string>
+<string language="en">This educational object is interesting to understand the level of importance of the logical part of the computer.</string>
+</description>
+</annotation>
+<classification><purpose><source>LOMv1.0</source>
+<value>educational objective</value></purpose>
+<taxonPath><source><string language="es">Competencia LOM-ESv1.0</string>
+</source>
+<taxon>
+<id>2</id>
+<entry><string language="es">Competencias Académicas</string>
+</entry>
+</taxon>
+<taxon>
+<id>2.6</id>
+<entry><string language="es">Conocimiento de los productos y procesos tecnológicos</string>
+</entry>
+</taxon>
+</taxonPath>
+<taxonPath><source><string language="es">Accesibilidad LOM-ESv1.0&lt;/</string>
+</source>
+<taxon>
+<id>1</id>
+<entry><string language="es">DECLARACIÓN DEL MODO DE ACCESO AL SIGUIENTE NIVEL.</string>
+</entry>
+</taxon>
+<taxon>
+<id>1.2</id>
+<entry><string language="es">Modo de interacción para el acceso</string>
+</entry>
+</taxon>
+<taxon>
+<id>1.2.1</id>
+<entry><string language="es">teclado</string>
+</entry>
+</taxon>
+</taxonPath>
+<taxonPath><source><string language="es">Nivel educativo LOM-ESv1.0</string>
+</source>
+<taxon>
+<id>9</id>
+<entry><string language="es">Educación de Personas Adultas</string>
+</entry>
+</taxon>
+<taxon>
+<id>9.2</id>
+<entry><string>ESPA</string>
+</entry>
+</taxon>
+<taxon>
+<id>9.2.1</id>
+<entry><string>Nivel 1</string>
+</entry>
+</taxon>
+</taxonPath>
+<taxonPath><source><string language="es">Árbol curricular LOE 2006</string>
+</source>
+<taxon>
+<id>5</id>
+<entry><string language="es">Formación Profesional Específica</string>
+</entry>
+</taxon>
+<taxon>
+<id>5.1</id>
+<entry><string language="es">Ciclos Formativos de Grado Medio ( MEC )</string>
+</entry>
+</taxon>
+<taxon>
+<id>5.1.9</id>
+<entry><string language="es">. Electricidad y Electrónica ( MEC )</string>
+</entry>
+</taxon>
+<taxon>
+<id>5.1.9.1.3 .</id>
+<entry><string language="es">Sistemas electrónicos de información ( MEC )</string>
+</entry>
+</taxon>
+</taxonPath>
+<description><string language="es">Es un recurso que cubre competencias básicas.</string>
+<string language="en">It is a resource that covers basic skills.</string>
+</description>
+<keyword><string language="es">informativo</string>
+</keyword>
+<keyword><string language="en">informative</string>
+</keyword>
+</classification>
+</lom>
